@@ -1,0 +1,1 @@
+this is a non-empty readme file created for my commercial projec in python for inventory management and point of sale by Jan Yaya Mutewera please refer to him to make any changes @ janmutewera@gmail.com
